@@ -1,0 +1,24 @@
+Heaume          *
+Chandelier      * 
+epee            *    
+emeraude        *  
+coffreTresor    *
+bague           *
+crane           *
+trouseau        *
+couronne        *
+bourse          *
+Encyclopedie    *
+CarteTresor     *
+salamandre
+fantome
+scarabee
+magicienne
+hobbit
+araignee
+PapillonDeNuit
+chouette
+EspritFarceur
+Rat
+ChauveSouris
+Dragon
